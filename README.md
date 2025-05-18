@@ -1,4 +1,4 @@
-# ICAE01-2025-05-02
+# ICAE01
 # Smart Canteen Management System
 
 ## Project Overview
